@@ -51,5 +51,31 @@ The dashboards include dynamic dark/light mode themes with interactive toggle bu
 - Debit card was the most preferred payment method.
 - High-rated products showed better sales trends.
 
+# Dashboard Preview
+
+## DMart Sales Dashboard
+
+### Dark Theme
+![Sales Dark](screenshots/sales-dashboard-dark.png)
+
+### Light Theme
+![Sales Light](screenshots/sales-dashboard-light.png)
+
+## Product Analysis Dashboard
+
+### Dark Theme
+![Product Dark](screenshots/product-dashboard-dark.png)
+
+### Light Theme
+![Product Light](screenshots/product-dashboard-light.png)
+
+## Customer Analytics Dashboard
+
+### Dark Theme
+![Customer Dark](screenshots/customer-dashboard-dark.png)
+
+### Light Theme
+![Customer Light](screenshots/customer-dashboard-light.png)
+
 ## Author
 Ankita Panchal
